@@ -1,0 +1,6 @@
+[core]
+	editor = subl -w
+	excludesfile = /Users/joshapple/.gitignore_global
+[user]
+	name = LiFangCoding
+	email = fanglihust@gmail.com
